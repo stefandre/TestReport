@@ -1,3 +1,4 @@
+C:\GitRepository\TestReport\ConsoleApplication1\ConsoleApplication1\bin\Debug\App.config
 C:\GitRepository\TestReport\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\GitRepository\TestReport\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 C:\GitRepository\TestReport\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
